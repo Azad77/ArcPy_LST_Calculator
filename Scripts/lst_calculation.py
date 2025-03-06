@@ -1,3 +1,12 @@
+"""
+--------------------------------------------------------------------------------
+Script Name: lst_calculation.py
+Author: Dr. Azad Rasul
+Year: 2025
+Email: azad.rasul@soran.edu.iq
+--------------------------------------------------------------------------------
+"""
+
 # lst_calculation.py (Python 2.7 compatible)
 import arcpy
 from arcpy.sa import *
